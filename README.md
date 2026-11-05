@@ -8,6 +8,35 @@
 
 ---
 
+### 🚀 Tech Stack
+
+<div align="center">
+  <a href="#"></a>
+  <img src="https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=1e1e2e" alt="C++20"/>
+  <img src="https://img.shields.io/badge/CUDA_13.x-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA 13.x"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Aumnamaha">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aumnamaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Aumnamaha">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </a>
+</div>
+
+---
+
 ### About Me 🔭
 
 **Aum Namaha** — Final-year **B.Tech CSE (AI & ML)** candidate at **[GITAM School of Technology](https://gitam.edu)**, Hyderabad. Passionate about building production-grade AI systems, federated learning pipelines, and low-latency edge computing frameworks.
@@ -40,12 +69,12 @@
 
 ### ⚡ Key Repositories
 
-| Project | Description |
-|---|---|
-| **⚡ [A11-LLM-optimizer](https://github.com/Aumnamaha/A11-LLM-optimizer)** | LLM inference optimization pipeline with hybrid cloud-local routing |
-| **🧠 [SentryMind](https://github.com/Aumnamaha/SentryMind)** | AI-powered threat detection and security monitoring platform |
-| **🏛️ [Student_Feedback_portal](https://github.com/Aumnamaha/Student_Feedback_portal)** | Full-stack feedback collection, analysis, and reporting system |
-| **🛡️ [FedTrustChain](https://github.com/Aumnamaha/FedTrustChain)** | Federated learning with dynamic trust scoring & permissioned blockchain audit ledger |
+| Project | Description | Status |
+|---|---|---|
+| **⚡ [A11-LLM-optimizer](https://github.com/Aumnamaha/A11-LLM-optimizer)** | LLM inference optimization pipeline with hybrid cloud-local routing | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
+| **🧠 [SentryMind](https://github.com/Aumnamaha/SentryMind)** | AI-powered threat detection and security monitoring platform | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
+| **🏛️ [Student_Feedback_portal](https://github.com/Aumnamaha/Student_Feedback_portal)** | Full-stack feedback collection, analysis, and reporting system | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
+| **🛡️ [FedTrustChain](https://github.com/Aumnamaha/FedTrustChain)** | Federated learning with dynamic trust scoring & permissioned blockchain audit ledger | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
 
 ---
 
