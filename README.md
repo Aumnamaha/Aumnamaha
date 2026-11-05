@@ -1,51 +1,35 @@
 <div align="center">
 
-# Hey there, I'm Aumnamaha Thirunagari 👋
+# Hi there, I'm Aumnamaha Thirunagari 👋
 ### Agentic AI Systems Engineer & Local LLM Optimization Specialist
 **B.Tech CSE (AI & ML) Candidate @ GITAM School of Technology • Hyderabad, India**
 
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aumnamaha-thirunagari-9214782bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aumnamaha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aumnamaha11@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/793718773693415446)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-repo-brown.vercel.app)
+
+<br><br>
+
+<img src="assets/workstation.jpg" alt="Aumnamaha Engineering Workstation Setup" width="92%" style="border-radius: 10px;" />
+
+<br>
+<sub>💻 Dual-Machine Workstation: Windows 11 (RTX 5070 Ti, Intel Core Ultra 9) & Apple MacBook Air</sub>
+
 </div>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <a href="https://github.com/Aumnamaha"><img src="https://komarev.com/ghpvc/?username=Aumnamaha&color=0078D4&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
-      <a href="https://github.com/Aumnamaha"><img src="https://img.shields.io/github/followers/Aumnamaha?label=Follow%20%40Aumnamaha&style=social" alt="Follow" /></a>
-      <br><br>
-      <ul>
-        <li>🔬 <b>Building:</b> Zero-Trust FL pipelines (FedTrustChain) & CUDA NVMe acceleration engines.</li>
-        <li>⚡ <b>Specializing:</b> Low-level C++/CUDA kernels, hybrid cloud-local routing, and AST parsers.</li>
-        <li>💻 <b>Workstation:</b> Windows 11 (RTX 5070 Ti, Intel Core Ultra 9) & Apple MacBook Air.</li>
-        <li>📧 <b>Reach me:</b> <a href="mailto:aumnamaha11@gmail.com">aumnamaha11@gmail.com</a></li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://portfolio-repo-brown.vercel.app">portfolio-repo-brown.vercel.app</a></li>
-        <li>⚡ <b>Fun fact:</b> AI Hardware & Local LLM Runtime Enthusiast</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="assets/workstation.jpg" width="100%" style="border-radius:10px;" alt="Aumnamaha Workstation Setup" />
-    </td>
-  </tr>
-</table>
+---
 
-### 🤝 Connect with me:
+### 🚀 Engineering Profile & Focus
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aumnamaha-thirunagari-9214782bb/" target="_blank" title="LinkedIn: Thirunagari Aum Namaha">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="46" />
-  </a>
-  <a href="https://github.com/Aumnamaha" target="_blank" title="GitHub: @Aumnamaha">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="36" width="46" />
-  </a>
-  <a href="mailto:aumnamaha11@gmail.com" target="_blank" title="Email: aumnamaha11@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="36" width="46" />
-  </a>
-  <a href="https://discord.com/users/793718773693415446" target="_blank" title="Discord: User ID 793718773693415446">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="36" width="46" />
-  </a>
-  <a href="https://portfolio-repo-brown.vercel.app" target="_blank" title="Web Portfolio: portfolio-repo-brown.vercel.app">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/komoot.svg" alt="Portfolio" height="36" width="46" />
-  </a>
-</p>
+- 🔬 **Building:** Zero-Trust FL pipelines ([FedTrustChain](https://github.com/Aumnamaha/FedTrustChain)) & CUDA NVMe acceleration engines ([A11-LLM-optimizer](https://github.com/Aumnamaha/A11-LLM-optimizer)).
+- ⚡ **Specializing:** Low-level C++/CUDA kernels, hybrid cloud-local routing, and AST code verification.
+- 💻 **Workstation Rig:** Windows 11 (RTX 5070 Ti 12GB VRAM, Intel Core Ultra 9, 32GB RAM) & Apple MacBook Air.
+- 📧 **Reach Me:** [aumnamaha11@gmail.com](mailto:aumnamaha11@gmail.com) | **Portfolio:** [portfolio-repo-brown.vercel.app](https://portfolio-repo-brown.vercel.app)
+- ⚡ **Focus:** AI Hardware Acceleration & Local LLM Agent Runtimes.
 
 ---
 
