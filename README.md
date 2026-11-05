@@ -16,7 +16,7 @@
         <li>🔬 <b>Building:</b> Zero-Trust FL pipelines (FedTrustChain) & CUDA NVMe acceleration engines.</li>
         <li>⚡ <b>Specializing:</b> Low-level C++/CUDA kernels, hybrid cloud-local routing, and AST parsers.</li>
         <li>💻 <b>Workstation:</b> Windows 11 (RTX 5070 Ti, Intel Core Ultra 9) & Apple MacBook Air.</li>
-        <li>📧 <b>Reach me:</b> <a href="mailto:aumnamaha@example.com">aumnamaha@example.com</a></li>
+        <li>📧 <b>Reach me:</b> <a href="mailto:aumnamaha11@gmail.com">aumnamaha11@gmail.com</a></li>
         <li>🌐 <b>Portfolio:</b> <a href="https://portfolio-repo-brown.vercel.app">portfolio-repo-brown.vercel.app</a></li>
         <li>⚡ <b>Fun fact:</b> AI Hardware & Local LLM Runtime Enthusiast</li>
       </ul>
@@ -30,14 +30,17 @@
 ### 🤝 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/aumnamaha" target="_blank" title="LinkedIn: Aumnamaha Thirunagari">
+  <a href="https://www.linkedin.com/in/aumnamaha-thirunagari-9214782bb/" target="_blank" title="LinkedIn: Thirunagari Aum Namaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="46" />
   </a>
   <a href="https://github.com/Aumnamaha" target="_blank" title="GitHub: @Aumnamaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="36" width="46" />
   </a>
-  <a href="mailto:aumnamaha@example.com" target="_blank" title="Email: aumnamaha@example.com">
+  <a href="mailto:aumnamaha11@gmail.com" target="_blank" title="Email: aumnamaha11@gmail.com">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="36" width="46" />
+  </a>
+  <a href="https://discord.com/users/793718773693415446" target="_blank" title="Discord: User ID 793718773693415446">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="36" width="46" />
   </a>
   <a href="https://portfolio-repo-brown.vercel.app" target="_blank" title="Web Portfolio: portfolio-repo-brown.vercel.app">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/komoot.svg" alt="Portfolio" height="36" width="46" />
