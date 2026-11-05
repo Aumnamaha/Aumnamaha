@@ -68,7 +68,7 @@
 |---|---|---|
 | **⚡ [A11-LLM-optimizer](https://github.com/Aumnamaha/A11-LLM-optimizer)** | LLM inference optimization pipeline with hybrid cloud-local routing | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
 | **🧠 [SentryMind](https://github.com/Aumnamaha/SentryMind)** | AI-powered threat detection and security monitoring platform | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
-| **🏛️ [Student_Feedback_portal](https://github.com/Aumnamaha/Student_Feedback_portal)** | Full-stack feedback collection, analysis, and reporting system | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
+| **🏛️ [Student_Feedback](https://github.com/Aumnamaha/Student_Feedback_portal)** | Full-stack feedback collection, analysis, and reporting system | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
 | **🛡️ [FedTrustChain](https://github.com/Aumnamaha/FedTrustChain)** | Federated learning with dynamic trust scoring & permissioned blockchain audit ledger | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
 
 ---
