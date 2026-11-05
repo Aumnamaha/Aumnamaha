@@ -24,11 +24,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contribution & Activity Stream
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aumnamaha&show_icons=true&theme=tokyonight" alt="Aumnamaha's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Aumnamaha&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aumnamaha&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </p>
 
 ---
