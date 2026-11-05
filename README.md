@@ -27,11 +27,7 @@
 ### 📊 GitHub Contribution & Activity Stream
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aumnamaha&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aumnamaha&theme=tokyo_night&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Aumnamaha&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180" />
 </p>
 
 ---
