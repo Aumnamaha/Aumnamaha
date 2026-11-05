@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/workstation.jpg" alt="Aumnamaha's Engineering Workstation" width="92%" style="border-radius: 10px;" />
   <br>
-  <sub>💻 Dual-Machine Workstation: Windows 11 (RTX 5070 Ti, Intel Core Ultra 9) & Apple MacBook Air</sub>
+  <sub>💻 Dual-Machine Workstation: Asus Rog Strix G16 & Apple MacBook Air M1</sub>
 </div>
 
 ---
