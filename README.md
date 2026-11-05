@@ -26,9 +26,10 @@
 
 ### 📊 GitHub Stats
 
-![Aumnamaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aumnamaha&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&layout=compact&theme=tokyonight&hide_progress=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aumnamaha&show_icons=true&theme=tokyonight" alt="Aumnamaha's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</div>
 
 ---
 
