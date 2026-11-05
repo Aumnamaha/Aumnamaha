@@ -24,10 +24,19 @@
 
 ---
 
-### 📊 GitHub Contribution & Activity Stream
+### 📊 GitHub Analytics & Activity Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aumnamaha&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aumnamaha&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aumnamaha&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aumnamaha&theme=tokyonight" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aumnamaha&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
