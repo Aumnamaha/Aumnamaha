@@ -27,12 +27,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Aumnamaha">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aumnamaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Aumnamaha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  </a>
+  ![Aumnamaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aumnamaha&show_icons=true&theme=tokyonight&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&layout=compact&theme=tokyonight&hide_progress=true)
 </div>
 
 ---
@@ -41,7 +37,6 @@
 
 **Aum Namaha** — Final-year **B.Tech CSE (AI & ML)** candidate at **[GITAM School of Technology](https://gitam.edu)**, Hyderabad. Passionate about building production-grade AI systems, federated learning pipelines, and low-latency edge computing frameworks.
 
-> 🌱 Currently preparing for **GATE CS & GATE DA** — Algorithms, OS, Data Structures, Linear Algebra  
 > ⚡ Specializing in **CUDA kernel development**, hybrid cloud-local ML routing, and trust-aware federated systems
 
 ---
