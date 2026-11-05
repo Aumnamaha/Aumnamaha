@@ -1,10 +1,48 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="assets/workstation.jpg" alt="Aumnamaha's Engineering Workstation" width="92%" style="border-radius: 10px;" />
-  <br>
-  <sub>💻 Dual-Machine Workstation: Asus Rog Strix G16 & Apple MacBook Air M1</sub>
+
+# Hey there, I'm Aumnamaha Thirunagari 👋
+### Agentic AI Systems Engineer & Local LLM Optimization Specialist
+**B.Tech CSE (AI & ML) Candidate @ GITAM School of Technology • Hyderabad, India**
+
 </div>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://github.com/Aumnamaha"><img src="https://komarev.com/ghpvc/?username=Aumnamaha&color=0078D4&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
+      <a href="https://github.com/Aumnamaha"><img src="https://img.shields.io/github/followers/Aumnamaha?label=Follow%20%40Aumnamaha&style=social" alt="Follow" /></a>
+      <br><br>
+      <ul>
+        <li>🔬 <b>Building:</b> Zero-Trust FL pipelines (FedTrustChain) & CUDA NVMe acceleration engines.</li>
+        <li>⚡ <b>Specializing:</b> Low-level C++/CUDA kernels, hybrid cloud-local routing, and AST parsers.</li>
+        <li>💻 <b>Workstation:</b> Windows 11 (RTX 5070 Ti, Intel Core Ultra 9) & Apple MacBook Air.</li>
+        <li>📧 <b>Reach me:</b> <a href="mailto:aumnamaha@example.com">aumnamaha@example.com</a></li>
+        <li>🌐 <b>Portfolio:</b> <a href="https://portfolio-repo-brown.vercel.app">portfolio-repo-brown.vercel.app</a></li>
+        <li>⚡ <b>Fun fact:</b> AI Hardware & Local LLM Runtime Enthusiast</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="assets/workstation.jpg" width="100%" style="border-radius:10px;" alt="Aumnamaha Workstation Setup" />
+    </td>
+  </tr>
+</table>
+
+### 🤝 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/aumnamaha" target="_blank" title="LinkedIn: Aumnamaha Thirunagari">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="46" />
+  </a>
+  <a href="https://github.com/Aumnamaha" target="_blank" title="GitHub: @Aumnamaha">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="36" width="46" />
+  </a>
+  <a href="mailto:aumnamaha@example.com" target="_blank" title="Email: aumnamaha@example.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="36" width="46" />
+  </a>
+  <a href="https://portfolio-repo-brown.vercel.app" target="_blank" title="Web Portfolio: portfolio-repo-brown.vercel.app">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/komoot.svg" alt="Portfolio" height="36" width="46" />
+  </a>
+</p>
 
 ---
 
