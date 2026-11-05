@@ -26,10 +26,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aumnamaha&show_icons=true&theme=tokyonight" alt="Aumnamaha's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aumnamaha&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aumnamaha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
@@ -64,12 +64,37 @@
 
 ### ⚡ Key Repositories
 
-| Project | Description | Status |
-|---|---|---|
-| **⚡ [A11-LLM-optimizer](https://github.com/Aumnamaha/A11-LLM-optimizer)** | LLM inference optimization pipeline with hybrid cloud-local routing | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
-| **🧠 [SentryMind](https://github.com/Aumnamaha/SentryMind)** | AI-powered threat detection and security monitoring platform | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
-| **🏛️ [Student___Feedback](https://github.com/Aumnamaha/Student_Feedback_portal)** | Full-stack feedback collection, analysis, and reporting system | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
-| **🛡️ [FedTrustChain](https://github.com/Aumnamaha/FedTrustChain)** | Federated learning with dynamic trust scoring & permissioned blockchain audit ledger | ![Tests](https://img.shields.io/badge/tests-50%2F50_passing-green?style=flat-square) `CUDA 13.x` `pytest ✅` |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="28%">Project</th>
+      <th align="left" width="48%">Description</th>
+      <th align="left" width="24%">Tech Stack & Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/Aumnamaha/A11-LLM-optimizer">⚡ A11-LLM-optimizer</a></b></td>
+      <td>Low-level LLM inference acceleration engine with NVMe <code>mmap</code> tensor streaming & C++/CUDA kernels.</td>
+      <td><img src="https://img.shields.io/badge/CUDA-13.x-76B900?style=flat-square" /><br><img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Aumnamaha/SentryMind">🧠 SentryMind</a></b></td>
+      <td>Autonomous incident response agent with persistent long-term vector memory state graphs.</td>
+      <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br><img src="https://img.shields.io/badge/Hindsight-Vector-purple?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Aumnamaha/Student_Feedback_portal">🏛️ Student_Feedback_portal</a></b></td>
+      <td>Spec-driven feedback collection portal featuring 4-role RBAC, embedded UML specs, and 100% test coverage.</td>
+      <td><img src="https://img.shields.io/badge/pytest-77%2F77%20passing-brightgreen?style=flat-square" /><br><img src="https://img.shields.io/badge/Flask-RBAC-black?style=flat-square" /></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Aumnamaha/FedTrustChain">🛡️ FedTrustChain</a></b></td>
+      <td>Zero-trust federated learning framework with dynamic node trust scoring & permissioned blockchain audit log.</td>
+      <td><img src="https://img.shields.io/badge/tests-50%2F50%20passing-brightgreen?style=flat-square" /><br><img src="https://img.shields.io/badge/UDP-Chunked-blue?style=flat-square" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
