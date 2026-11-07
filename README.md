@@ -17,7 +17,7 @@
 <img src="assets/workstation.jpg" alt="Aumnamaha Engineering Workstation Setup" width="92%" style="border-radius: 10px;" />
 
 <br>
-<sub>💻 Dual-Machine Workstation: Windows 11 (RTX 5070 Ti, Intel Core Ultra 9) & Apple MacBook Air</sub>
+<sub>💻 Dual-Machine Workstation: Asus Rog Strix G16 MS97 & Apple MacBook Air M1 </sub>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 - 🔬 **Building:** Zero-Trust FL pipelines ([FedTrustChain](https://github.com/Aumnamaha/FedTrustChain)) & CUDA NVMe acceleration engines ([A11-LLM-optimizer](https://github.com/Aumnamaha/A11-LLM-optimizer)).
 - ⚡ **Specializing:** Low-level C++/CUDA kernels, hybrid cloud-local routing, and AST code verification.
-- 💻 **Workstation Rig:** Windows 11 (RTX 5070 Ti 12GB VRAM, Intel Core Ultra 9, 32GB RAM) & Apple MacBook Air.
+- 💻 **Workstation Rig:** Asus Rog Strix G16 MS97 & Apple MacBook Air M1.
 - 📧 **Reach Me:** [aumnamaha11@gmail.com](mailto:aumnamaha11@gmail.com) | **Portfolio:** [portfolio-repo-brown.vercel.app](https://portfolio-repo-brown.vercel.app)
 - ⚡ **Focus:** AI Hardware Acceleration & Local LLM Agent Runtimes.
 
