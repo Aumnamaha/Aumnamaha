@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aumnamaha-thirunagari-9214782bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aumnamaha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aumnamaha11@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=aumnamaha11@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/793718773693415446)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-repo-brown.vercel.app)
 
@@ -28,7 +28,7 @@
 - 🔬 **Building:** Zero-Trust FL pipelines ([FedTrustChain](https://github.com/Aumnamaha/FedTrustChain)) & CUDA NVMe acceleration engines ([A11-LLM-optimizer](https://github.com/Aumnamaha/A11-LLM-optimizer)).
 - ⚡ **Specializing:** Low-level C++/CUDA kernels, hybrid cloud-local routing, and AST code verification.
 - 💻 **Workstation Rig:** Asus Rog Strix G16 MS97 & Apple MacBook Air M1.
-- 📧 **Reach Me:** [aumnamaha11@gmail.com](mailto:aumnamaha11@gmail.com) | **Portfolio:** [portfolio-repo-brown.vercel.app](https://portfolio-repo-brown.vercel.app)
+- 📧 **Reach Me:** [aumnamaha11@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aumnamaha11@gmail.com) | **Portfolio:** [portfolio-repo-brown.vercel.app](https://portfolio-repo-brown.vercel.app)
 - ⚡ **Focus:** AI Hardware Acceleration & Local LLM Agent Runtimes.
 
 ---
@@ -143,7 +143,7 @@
 ### 📬 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aumnamaha-blue?style=for-the-badge&logo=github)](https://github.com/Aumnamaha)
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:)
+[![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=aumnamaha11@gmail.com)
 
 ---
 
